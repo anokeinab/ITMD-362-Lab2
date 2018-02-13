@@ -52,5 +52,6 @@ table {
     /* For mobile phones: */
     input {
         width: 100%;
+	background: blue;
     }
 }
