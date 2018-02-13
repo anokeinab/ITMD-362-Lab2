@@ -54,7 +54,7 @@ input {
         width: 100%;
 	
     }
- body{
+ #form_body{
 	 background: blue;
     }
 }
