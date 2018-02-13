@@ -50,8 +50,18 @@ table {
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    input {
+input {
         width: 100%;
-	background: blue;
+	
+    }
+ body{
+	 background: blue;
     }
 }
+@media only screen and (max-width: 992px) {
+    /* For desktop: */
+input {
+        width: 50%;
+	
+    }
+
